@@ -1,6 +1,6 @@
-    * {
+/*    * {
 		
-	}
+	}*/
     body {
         background:  #fbfbf8;
     }
@@ -9,6 +9,13 @@
         font-size: 30px;
     }
 
+/*    .col-sm-6 {*/
+   /* width: 95%;    */
+    /*margin-left:  -20px;
+    margin-right: -1px;*/
+    /*padding: 15px;*/
+   /* box-sizing: border-box;*/
+    }
 
     
 /*   .box {
