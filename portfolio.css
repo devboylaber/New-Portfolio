@@ -4,10 +4,23 @@
     body {
         background:  #fbfbf8;
     }
+    .header-fixed {
+        position: fixed;
+        height: 100px;
+        width: 100%;
+        margin: 0;
+        z-index: 30;
+        background:  #fbfbf8;
+    }
+
     h1 {
         /*needs to be fixed*/
         font-size: 30px;
     }
+    .row {
+        margin: 200px auto;
+    }
+
 
 /*    .col-sm-6 {*/
    /* width: 95%;    */
