@@ -21,17 +21,7 @@
         margin: 200px auto;
     }
     
-    .ecommerce {
-        width: 100px;
-        height: 100px;
-        display: inline-block;
-        background-image: url(http://shabbosfish.herokuapp.com/);
-    }
-    .iframe-clickable {
-        /*position: fixed;
-        z-index: 10;*/
-        /*height: 85px;*/
-    }
+
 
     .main-footer {
         position: fixed;
@@ -44,16 +34,4 @@
         margin: 1.5em 0 0 0;
         text-align: center;
     }
-/*    .myColomn-left {
-        margin-left: 50px;
-    }
-    .myColomn-right {
-        margin-right: 50px;
-    }*/
-/*    .col-sm-6 {
-        max-width: 100%;
-    }*/
-
-
-
 
