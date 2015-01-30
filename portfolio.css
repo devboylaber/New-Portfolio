@@ -12,7 +12,7 @@
         z-index: 30;
         background-color: hsla(205, 31%, 95%, 1);
     }
-
+    
     h1 {
         /*needs to be fixed*/
         font-size: 30px;
@@ -20,9 +20,17 @@
     .row {
         margin: 200px auto;
     }
-
+    
+    .ecommerce {
+        width: 100px;
+        height: 100px;
+        display: inline-block;
+        background-image: url(http://shabbosfish.herokuapp.com/);
+    }
     .iframe-clickable {
-        height: 85px;
+        /*position: fixed;
+        z-index: 10;*/
+        /*height: 85px;*/
     }
 
     .main-footer {
