@@ -21,6 +21,10 @@
         margin: 200px auto;
     }
 
+    .iframe-clickable {
+        height: 85px;
+    }
+
     .main-footer {
         position: fixed;
         bottom: 0;
@@ -32,22 +36,16 @@
         margin: 1.5em 0 0 0;
         text-align: center;
     }
-
-
-
-
-
-/*    .col-sm-6 {*/
-   /* width: 95%;    */
-    /*margin-left:  -20px;
-    margin-right: -1px;*/
-    /*padding: 15px;*/
-   /* box-sizing: border-box;*/
+/*    .myColomn-left {
+        margin-left: 50px;
     }
-
-    
-/*   .box {
-    	width: 200px;
-    	height: 200px;
-    	background:hsla(49, 31%, 91%, 1);
+    .myColomn-right {
+        margin-right: 50px;
     }*/
+/*    .col-sm-6 {
+        max-width: 100%;
+    }*/
+
+
+
+
